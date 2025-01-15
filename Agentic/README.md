@@ -8,12 +8,16 @@
 <img width="1505" alt="4-create-new-project" src="https://github.com/user-attachments/assets/95ab0de7-a2e7-4152-bb02-9f0ecf63e7e7" />
 5. Name your Project 
 <img width="1507" alt="5-naming-project" src="https://github.com/user-attachments/assets/cf19db6f-e10e-4867-9bdc-12410c886834" />
-6. This is the interface of project. In here, you can save all of your work and assets. We are going to create assets on agentic, create new assets as follow
+6. This is the interface of project. In here, you can save all of your work and assets. We can start to create assets as follow
 <img width="1507" alt="7-assets" src="https://github.com/user-attachments/assets/52ac9166-a5d0-44b3-bcc5-b1f42baac9d6" />
 7. Choose **chat and build prompts with foundation models**
-![image](https://github.com/user-attachments/assets/eeef0a43-47f5-46b4-aafe-5fc527866f76)
-8. Associate the **Watson Studio Machine Learning** as follows
-![image](https://github.com/user-attachments/assets/d36a48ae-0f7e-4d1d-b44b-df820832a080)
-9. 
+<img width="1409" alt="8-build-prompts" src="https://github.com/user-attachments/assets/404dc716-2822-41a0-8f9d-647663ae4e03" />
+9. Associate the **Watson Studio Machine Learning** as follows
+<img width="1507" alt="9-associate" src="https://github.com/user-attachments/assets/500c4cea-1dff-4ca8-873a-6ff0ac060cf6" />
+<img width="1407" alt="10-wml" src="https://github.com/user-attachments/assets/c91740a6-14f9-43c9-8a9b-2c4ba3b167b0" />
+10. To enable agentic, you need to activate agentic by toggle the agentic.
+<img width="1505" alt="11-profile" src="https://github.com/user-attachments/assets/c8cbafff-9812-405b-95fd-279b4759f4f7" />
+    
+12. Se
 
 
